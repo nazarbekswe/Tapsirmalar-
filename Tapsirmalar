@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <HTML>
     <head>
-        <title></title>
-       <style>
+           <title> Html form part-7</title>
+   <style>
         input{
         width: 10px;
-        border-color: aqua;
-        }
-       </style>
-    </head>
+        border-color: black;
+    </style>
+     </head>
     <body>
     <form>
         <input type="text" maxlength="1">  
@@ -17,9 +16,11 @@
         <input type="text" maxlength="1">  
         <input type="text" maxlength="1">  
         <input type="text" maxlength="1">  
-        
-        
 
-    </form>
-    </body>
-</HTML>
+
+       <!--1-tapsirma-->
+       <input type="text"  placeholder="name"> <br>
+       <input type="email" placeholder="emai
+ </form>
+ </body>
+ </HTML>
