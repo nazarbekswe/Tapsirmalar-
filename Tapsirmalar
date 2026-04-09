@@ -6,6 +6,20 @@
         input{
         width: 10px;
         border-color: black;
+       img{
+             width: 200px; 
+             margin-left: 60px;
+        }
+        input{
+            width: 300px;
+            border-radius: 20px;
+            border: 1px solid gray;
+            padding: 10px 15px;
+            font-size: 16px;
+            font-weight: 500;
+            box-shadow: 0 1 6 px gray;
+            background-color: blue;
+        } 
     </style>
      </head>
     <body>
@@ -16,11 +30,13 @@
         <input type="text" maxlength="1">  
         <input type="text" maxlength="1">  
         <input type="text" maxlength="1">  
-
-
-       <!--1-tapsirma-->
-       <input type="text"  placeholder="name"> <br>
-       <input type="email" placeholder="emai
+        <!--1-tapsirma-->
+        <input type="text"  placeholder="name"> <br>
+        <input type="email" placeholder="email">
+         <!--2-tapsirma--> 
+         <img src="google.webp" alt="google logo">
+         <input type="text" placeholder="search google or type a URL" required>  
+ 
  </form>
  </body>
  </HTML>
