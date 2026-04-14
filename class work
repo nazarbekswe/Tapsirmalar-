@@ -14,6 +14,10 @@
 </head>
 <body>
             <p>Salem</p>
+            
+            <form>
+            <textarea rows="5" cols="40" placeholder="oziniz haqqinda..."></textarea>
+            </form>
     
 </body>
 </html>
