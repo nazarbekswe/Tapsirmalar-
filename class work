@@ -16,7 +16,30 @@
             <p>Salem</p>
             
             <form>
-            <textarea rows="5" cols="40" placeholder="oziniz haqqinda..."></textarea>
+             <label>atiniz:<br></label> 
+        <input type="text"> <br> 
+        <label>email:<br></label> 
+        <input type="text" name="email">  <br>                
+        <label>login:<br></label>
+        <input type="text"> <br> <br>
+        <label> parol: <br></label>
+        <input type="number">
+        <hr> <br> <br> 
+        <label> jinisi:</label>
+        <label>erkek</label>
+        <input type="radio" name="jinisi">
+         <label>Hayel</label>
+        <input type="radio" name="jinisi">
+        <br> 
+        <label>xobby:</label>
+        <input type="checkbox"> 
+        <label>sport</label>
+        <input type="checkbox">
+        <label>muzika</label>
+        <input type="checkbox"> <br> <br>
+        <textarea rows="5" cols="40" placeholder="oziniz haqqinda..."></textarea>
+
+      
             </form>
     
 </body>
