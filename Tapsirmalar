@@ -79,16 +79,16 @@
        <button type="submit">🔍</button> 
           <!--16.04.26-->
         <form>
-            <select>
-                <option>xizmetti tanlan</option>
-                <option>shashtrez</option>
-                <option>Trener</option>
-                <option>mugallim</option>
-                <option>juziw</option> 
-            </select>
-              <br>
-            <textarea  rows="5" cols="40" placeholder="pikirinidi jazin..."></textarea>
-        </form>
+     <select>
+         <option>xizmetti tanlan</option>
+         <option>shashtrez</option>
+         <option>Trener</option>
+         <option>mugallim</option>
+         <option>juziw</option> 
+     </select>
+         <br>
+        <textarea  rows="5" cols="40" placeholder="pikirinidi jazin..."></textarea>
+    </form>
  </form>
  </body>
  </HTML>
