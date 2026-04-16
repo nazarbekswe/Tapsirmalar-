@@ -34,7 +34,30 @@
             border-top-right-radius: 10px;
             border-bottom-right-radius: 10px;      
           }
-        
+              <!--16.04.26-->
+        <title>tapsirma</title>
+        <style>
+            select{
+                width: 300px;
+                padding: 10px 15px;
+                box-sizing: border-box;
+                margin-bottom: 15px;
+                
+            }
+                select:hover{
+                box-shadow: 2px 2px 2px lightgreen;
+                }
+                textarea:{
+                width: 300px;
+                padding: 10px;
+                border: 2px solid blue;
+                transition: border-color o.5s;
+                box-sizing: border-box;
+                }
+                textarea:hover{
+                    border-color: blue;
+                }
+        </style>  
     </style>
      </head>
     <body>
@@ -54,6 +77,18 @@
          <!--4-tapsirma--> 
        <input type="text" placeholder="search....">
        <button type="submit">🔍</button> 
+          <!--16.04.26-->
+        <form>
+            <select>
+                <option>xizmetti tanlan</option>
+                <option>shashtrez</option>
+                <option>Trener</option>
+                <option>mugallim</option>
+                <option>juziw</option> 
+            </select>
+              <br>
+            <textarea  rows="5" cols="40" placeholder="pikirinidi jazin..."></textarea>
+        </form>
  </form>
  </body>
  </HTML>
