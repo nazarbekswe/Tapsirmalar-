@@ -44,3 +44,54 @@
     
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---18.04.26-->
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        img{
+      width: 100px;
+      }
+      button{
+     background-color: blue;
+     border-radius: 5px;
+         }
+        </style>
+    </head>
+    <body>
+    <div class="profile">
+    <img class="profile-picture" src="photo.avif">
+    <p class="name">oliver</p>
+    <p class="flowers">3 flowers</p>
+    <button class="flower-button">follow</button>
+        </div>
+    </body>
+</html>
