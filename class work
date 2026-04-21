@@ -45,34 +45,7 @@
 </body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!---18.04.26-->
-
-
-
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -95,20 +68,7 @@
         </div>
     </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--21.04.26-->
 <!DOCTYPE html>
 <html>
  <head>
@@ -138,5 +98,31 @@
     <input type="text" placeholder="bul jerde jaziw....">
     <button>jiberiw</button>
     </div>
+ </body>
+ </html>
+
+
+<!--  vertical-align: middle; haqqinda tapsirma orinlandi-->
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>classwork</title>
+    <style>
+   .dongelek{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
+     vertical-align: middle;
+   }
+   .text{
+    vertical-align: middle;
+   }
+    </style>
+ </head>
+ <body>
+    <span class="dongelek"></span>
+    <span class="text">salem</span>
  </body>
  </html>
