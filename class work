@@ -95,3 +95,48 @@
         </div>
     </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>classwork</title>
+    <style>
+     .profil-photo{
+     width: 95px;
+     border-radius: 50%;
+     }
+     .yupiter{
+     box-shadow: 0 1px gray;
+     width: 300px;
+     padding: 10px;
+     border-radius: 4px;
+     }
+     .input{
+        border: none;
+        vertical-align: middle;
+        display: inline-block;
+        
+     }
+    </style>
+ </head>
+ <body>
+    <div class="yupiter">
+    <img class="profil-photo" src="yupiter.jpg" alt="photo"> 
+    <input type="text" placeholder="bul jerde jaziw....">
+    <button>jiberiw</button>
+    </div>
+ </body>
+ </html>
