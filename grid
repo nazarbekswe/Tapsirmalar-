@@ -2,16 +2,32 @@
 <html>
 <head>
     <style>
-    div{
-        width: 100px;
-        display: inline-block;
-        vertical-align: top;
-    }
+    .box-grid{
+    display: grid;
+    grid-template-columns: 100px 100px;
+   
+    
     </style>
 </head>
 <body>
-    <div class="small-box" style="background-color: blue;">box<br>box</div>
-    <div class="small-box" style="background-color:darkorange">box-2</div>
- 
+    <div class="box-grid">
+    <div style="background-color: blanchedalmond;">box-1 </div>
+    <div style="background-color: blanchedalmond;">box-2</div>
+
+    <div style="
+    margin-top: 50px;
+    display:grid;
+     grid-template-columns: 150px 
+     
+    " 
+    <div style="background-color: blanchedalmond;">150px</div>
+    <div style="background-color: blanchedalmond;">150px</div>
+    <div style="background-color: blanchedalmond;">150px</div>
+    <div style="background-color: blanchedalmond;">150px</div>
+    <div style="background-color: blanchedalmond;">150px</div>
+    <div style="background-color: blanchedalmond;">150px</div>
+  
+    
+    </div>
 </body>
 </html>
