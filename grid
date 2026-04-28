@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    div{
+        width: 100px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    </style>
+</head>
+<body>
+    <div class="small-box" style="background-color: blue;">box<br>box</div>
+    <div class="small-box" style="background-color:darkorange">box-2</div>
+ 
+</body>
+</html>
