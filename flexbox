@@ -27,3 +27,42 @@
 </body>
 </html>
     </div>
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <div style="
+            display: flex;
+            flex-direction: row;">
+
+        <div style=" width:200px; background-color: aquamarine;">200px</div>
+        <div style=" width: 75px;background-color: blue;">75px</div>
+        </div>
+
+        <div style="
+          margin-top: 20px;
+          display:flex;
+          flex-direction: row;">
+
+        <div style="background-color: blue; flex:1;">box 1</div>
+        <div style="background-color:rebeccapurple; flex:3 ; ">box 2</div>
+        <div style="background-color: brown; flex: 1;">box 3</div>
+    </div>
+        <div style="
+          margin-top: 20px;
+          display:flex;
+          flex-direction: row;">
+
+        <div style="background-color: mediumorchid; width: 50px;">box 1</div>
+        <div style="background-color:aquamarine; flex:1;">box 2</div>
+        <div style="background-color: khaki; width: 75px;">box 3</div>
+    </div>
+        </div>
+    </body>
+</html>
